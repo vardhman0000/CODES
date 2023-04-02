@@ -1,0 +1,6 @@
+TYPES OF RECURSION :
+
+1. Direct Recursion
+2. Indirect Recursion ---> 1f -> 2f -> 3f -> 1f
+3. Tail Recursion ---> Last line will be func call
+4. Non Tail / Head Recursion ---> More statements after function call 
