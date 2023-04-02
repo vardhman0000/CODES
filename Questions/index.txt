@@ -1,0 +1,21 @@
+1. Write a program that takes an array of integers and sorts them in descending order using bubble sort.
+
+2. Write a program that reads a string and removes all the vowels from it.
+
+3. Write a program that takes a positive integer and checks if it is a prime number or not.
+
+4. Write a program that reads two strings and concatenates them without using any standard library functions.
+
+5. Write a program that reads a string and counts the number of words in it.
+
+6. Write a program that takes a string and converts all the lowercase letters to uppercase letters.
+
+7. Write a program that reads a string and checks if it is a palindrome or not.
+
+8. Write a program that takes two matrices as input and performs matrix multiplication.
+
+9. Write a program that takes a string and removes all the whitespace characters from it.
+
+10. Write a program that takes an array of integers and finds the second largest number in it.
+
+11. Write a program that prints all the palindrome numbers lying in a range.
